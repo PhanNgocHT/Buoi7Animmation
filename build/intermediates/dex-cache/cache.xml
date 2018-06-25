@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\2bb4d0a65654977934ae8bba17e554288b6c98e9\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\Android\Buoi7\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_9b87bad681134718f965baea89041dd652d244b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\Android\Buoi7\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_64c14f9aae55cf18e4d11f06aff9c245c3786ac0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Buoi7\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="F:\Android\Buoi7\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8a1252c7e917488f81e3b0bdd183fc5f861852d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\2bb4d0a65654977934ae8bba17e554288b6c98e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\Android\Buoi7\app\build\intermediates\pre-dexed\debug\classes_19e5d760bd740c881a3ad37aa0661f82355edf8c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Buoi7\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="afe93fba99af462a40b6d5cc2f8a1927d4230dc2">
+        <dex dex="F:\Android\Buoi7\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3ea8005747360d4b7366ffd9c770c89a85769707\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\d8f6875a9b24a867a3f5dfd38040407fb4e6e284\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\Android\Buoi7\app\build\intermediates\pre-dexed\debug\classes_1ea3dea5dc8ee495e730217e83ce930ddf4f3157.jar" />
+    </item>
+
+</items>

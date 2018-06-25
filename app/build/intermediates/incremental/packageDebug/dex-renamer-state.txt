@@ -1,0 +1,7 @@
+#Tue Jun 19 20:09:51 GMT+07:00 2018
+base.0=F\:\\Android\\Buoi7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3ea8005747360d4b7366ffd9c770c89a85769707
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\Android\\Buoi7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8a1252c7e917488f81e3b0bdd183fc5f861852d4\\classes.dex
+base.1=F\:\\Android\\Buoi7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8a1252c7e917488f81e3b0bdd183fc5f861852d4
+file.0=F\:\\Android\\Buoi7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3ea8005747360d4b7366ffd9c770c89a85769707\\classes.dex

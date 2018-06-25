@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="buoi11.t3h.com.buoi7.MainActivity">
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/btnAlpha"
+        android:text="Alpha"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/btnRotate"
+        android:text="Rotate"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/btnTranslate"
+        android:text="Translate"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/btnScale"
+        android:text="Scale"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/btnSet"
+        android:text="Set"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

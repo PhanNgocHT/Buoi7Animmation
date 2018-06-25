@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">単位 7</string>
+    <string name="message">終了しますか？</string>
+    <string name="ok">はい</string>
+    <string name="cancel">キャンセル</string>
+</resources>

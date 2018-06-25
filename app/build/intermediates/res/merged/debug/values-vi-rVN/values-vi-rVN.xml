@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buoi7</string>
+    <string name="cancel">Hủy Bỏ</string>
+    <string name="message">Ban co muốn thoát?</string>
+    <string name="ok">Đồng ý</string>
+</resources>

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "F:\\Android\\Buoi7\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\d8f6875a9b24a867a3f5dfd38040407fb4e6e284\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\Android\\Buoi7\\app\\build\\intermediates\\res\\merged\\debug\\anim\\set_animation.xml",
+        "source": "F:\\Android\\Buoi7\\app\\src\\main\\res\\anim\\set_animation.xml"
+    },
+    {
+        "merged": "F:\\Android\\Buoi7\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\d8f6875a9b24a867a3f5dfd38040407fb4e6e284\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\Android\\Buoi7\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\d8f6875a9b24a867a3f5dfd38040407fb4e6e284\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Buoi7\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\d8f6875a9b24a867a3f5dfd38040407fb4e6e284\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Buoi7\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_animation.xml",
+        "source": "F:\\Android\\Buoi7\\app\\src\\main\\res\\anim\\alpha_animation.xml"
+    },
+    {
+        "merged": "F:\\Android\\Buoi7\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_animation.xml",
+        "source": "F:\\Android\\Buoi7\\app\\src\\main\\res\\anim\\scale_animation.xml"
+    },
+    {
+        "merged": "F:\\Android\\Buoi7\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_animation.xml",
+        "source": "F:\\Android\\Buoi7\\app\\src\\main\\res\\anim\\rotate_animation.xml"
+    },
+    {
+        "merged": "F:\\Android\\Buoi7\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\d8f6875a9b24a867a3f5dfd38040407fb4e6e284\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Buoi7\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_animation.xml",
+        "source": "F:\\Android\\Buoi7\\app\\src\\main\\res\\anim\\translate_animation.xml"
+    },
+    {
+        "merged": "F:\\Android\\Buoi7\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\d8f6875a9b24a867a3f5dfd38040407fb4e6e284\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\Android\\Buoi7\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\d8f6875a9b24a867a3f5dfd38040407fb4e6e284\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\Android\\Buoi7\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\d8f6875a9b24a867a3f5dfd38040407fb4e6e284\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\Android\\Buoi7\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\d8f6875a9b24a867a3f5dfd38040407fb4e6e284\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\Android\\Buoi7\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\d8f6875a9b24a867a3f5dfd38040407fb4e6e284\\output\\res\\anim\\abc_fade_out.xml"
+    }
+]
